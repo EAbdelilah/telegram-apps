@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px;
+}
+
+.walletButton {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.tokenInput {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.swapIcon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: -8px 0;
+}
